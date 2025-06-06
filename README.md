@@ -9,6 +9,10 @@ Using R with packages {ggcal} {weathercan} {tidyverse} {patchwork}
 
 ![Quebec City](https://github.com/datacarvel/lamespring/blob/main/QC.png "Quebec City")
 
+To see the code, start with scriptMTL-main.R, which contains all the code from start to finish. The two other scripts simply are slightly edited versions for the two other city.
+
+## Notes on methodology and visualization :
+
 Black squares are NAs (Not Available) in ECCC's data. 
 
 Precipitations include rain and snow (all in millimeters, snow occasionally fall in April but rarely in May). 
