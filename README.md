@@ -7,4 +7,4 @@ Using R with packages {ggcal} {weathercan} {tidyverse} {patchwork}
 
 ![Ottawa](https://github.com/datacarvel/lamespring/blob/main/OT.png "Ottawa")
 
-![Montreal](https://github.com/datacarvel/lamespring/blob/main/QC.png "Quebec City")
+![Quebec City](https://github.com/datacarvel/lamespring/blob/main/QC.png "Quebec City")
