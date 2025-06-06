@@ -4,3 +4,7 @@ Calendar heatmap showing how terrible this spring was in Montreal, Ottawa and Qu
 Using R with packages {ggcal} {weathercan} {tidyverse} {patchwork}
 
 ![Montreal](https://github.com/datacarvel/lamespring/blob/main/MTL.png "Montreal")
+
+![Ottawa](https://github.com/datacarvel/lamespring/blob/main/OT.png "Ottawa")
+
+![Montreal](https://github.com/datacarvel/lamespring/blob/main/QC.png "Quebec City")
