@@ -9,7 +9,7 @@ Using R with packages {ggcal} {weathercan} {tidyverse} {patchwork}
 
 ![Quebec City](https://github.com/datacarvel/lamespring/blob/main/QC.png "Quebec City")
 
-Black squares are NAs in ECCC's data. 
+Black squares are NAs (Not Available) in ECCC's data. 
 
 Precipitations include rain and snow (all in millimeters, snow occasionally fall in April but rarely in May). 
 
