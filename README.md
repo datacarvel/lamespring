@@ -9,7 +9,7 @@ Using R with packages {ggcal} {weathercan} {tidyverse} {patchwork}
 
 ![Quebec City](https://github.com/datacarvel/lamespring/blob/main/QC.png "Quebec City")
 
-To see the code, start with scriptMTL-main.R, which contains all the code from start to finish. The two other scripts simply are slightly edited versions for the two other city.
+To see the code, start with scriptMTL-main.R, which contains all the code from start to finish. The two other scripts are slightly edited versions for the two other cities.
 
 ## Notes on methodology and visualization :
 
